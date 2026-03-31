@@ -91,7 +91,8 @@ void yyerror(const char *msg) {
 ````````````````````````````
 
 # OUTPUT
-![image](https://github.com/user-attachments/assets/3a322e1a-d497-486d-8626-f00b3ecf54bc)
+![CD](https://github.com/user-attachments/assets/10cb55b4-5225-4a65-b2f6-44d833acf077)
+
 
 
 # RESULT
