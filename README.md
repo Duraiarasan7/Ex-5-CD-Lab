@@ -2,6 +2,7 @@
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # Name : DURAIARASAN M
 # Reg no : 212224230071
+# date :4/3/2026
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
